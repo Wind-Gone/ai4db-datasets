@@ -1,7 +1,5 @@
 # ai4db-datasets
 
-[TOC]
-
 ## Introduction
 
 **ai4db-datasets** is a curated collection of benchmarks and datasets used in various database-related research papers. This repository aims to facilitate research in database systems, query optimization, indexing, and machine learning for databases by providing ready-to-use dataset import instructions and references to academic work.
