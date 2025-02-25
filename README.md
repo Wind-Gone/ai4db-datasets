@@ -17,6 +17,10 @@ This repository welcomes contributions from researchers and practitioners who us
 
 ## Contributing
 
+> [!IMPORTANT]
+>
+> **I believe the most important aspect is not just providing information, but ensuring that the provider has successfully achieved data importation themselves.**
+
 We encourage researchers and developers to contribute new datasets following the template below:
 
 ### Template for New Datasets
